@@ -1,0 +1,26 @@
+* {
+    background-color: blue;
+}
+
+h1 {
+    color: aqua;
+}
+
+/* Exemplo de classe, que é um classificador que pode ser repetido */
+.feiao {
+    color: brown;
+}
+
+/* Exemplo de id, que é um classificador único que tem prioridade acima das classes */
+#unico {
+    color: yellow;
+}
+
+a {
+    color: indigo;
+}
+
+/* É um seletor baseado em estado, comportamento. Depende de como o cliente interage */
+button:hover {
+    color: red;
+}

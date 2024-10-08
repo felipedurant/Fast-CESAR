@@ -39,4 +39,4 @@ console.log(array.filter(elemento => elemento != 2))
 console.log(array.map(elemento => elemento + 10))
 // map é um método que basicamente é um forEach em que o retorno da função é organizado num array resultado
 
-console.log(array.indexOf())
+console.log(array.indexOf(elemento => elemento === 2))

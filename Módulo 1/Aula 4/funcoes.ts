@@ -25,3 +25,7 @@ let calculadora = (primeiro: number, segundo: number, operacao: string): number 
 
 console.log(calculadora(2, 3, "/"))
 
+const objeto {
+    valor: number = 2
+    let funcao = (a: number, b: number) => a + b
+}

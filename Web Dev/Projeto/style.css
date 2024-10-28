@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.Titulo {
+    font-family: Mukta;
+    font-size: 24px;
+    font-weight: 700;
+    background: #1565C0;
+}
+ul {
+    font-family: Mukta;
+    font-size: 20px;
+    font-weight: 400;
+    background: #474747;
+}
